@@ -1,0 +1,13 @@
+venv
+dataset2.zip
+my_model.zip
+dataset2
+my_model
+data
+__pycache__
+data.zip
+blurred_video.mp4
+output_video.mp4
+test.mp4
+test2.mp4
+yolov8n.pt
